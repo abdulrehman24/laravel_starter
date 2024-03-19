@@ -11,6 +11,6 @@ then terminate it using ctrl+c
 <br>
 <br>
 
-logins
-email : admin@admin.com <br>
-password : 11223344
+logins<br>
+email: admin@admin.com <br>
+password: 11223344
