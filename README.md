@@ -12,5 +12,5 @@ then terminate it using ctrl+c<br>
 <br>
 
 logins<br>
-email: admin@admin.com <br>
+email: admin@gmail.com <br>
 password: 11223344
